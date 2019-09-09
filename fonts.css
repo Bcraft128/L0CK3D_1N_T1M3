@@ -1,0 +1,9 @@
+@font-face{
+	font-family: "LemonMilk";
+	src: url("LemonMilk.otf") format("opentype");
+}
+
+@font-face{
+	font-family: "NovaStamp";
+	src: url("NOVASTAMP.ttf") format("truetype");
+}

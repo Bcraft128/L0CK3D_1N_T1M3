@@ -1,3 +1,13 @@
-p {
-  color: red;
+body {
+	background-color: gray ;
+}
+
+
+#test{
+	font-family: 'LemonMilk';
+}
+
+#test2{
+	font-family: 'NovaStamp';
+	font-size: 150%;
 }
