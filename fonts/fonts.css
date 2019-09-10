@@ -1,0 +1,29 @@
+@font-face{
+	font-family: "BadSignal";
+	src: url("BadSignal.otf") format("opentype");
+}
+
+@font-face{
+	font-family: "GalaxyMonkey";
+	src: url("GalaxyMonkey.ttf") format("truetype");
+}
+
+@font-face{
+	font-family: "Kompani";
+	src: url("Kompani.otf") format("opentype");
+}
+
+@font-face{
+	font-family: "LemonMilk";
+	src: url("LemonMilk.otf") format("opentype");
+}
+
+@font-face{
+	font-family: "LemonMilkB";
+	src: url("LemonMilkBold.otf") format("opentype");
+}
+
+@font-face{
+	font-family: "LemonMilkL";
+	src: url("LemonMilkLight.otf") format("opentype");
+}
