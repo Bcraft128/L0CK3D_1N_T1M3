@@ -3,11 +3,33 @@ body {
 }
 
 
-#test{
+
+
+
+
+
+#BadSignal{
+	font-family: 'BadSignal';
+	font-size: 110%
+}
+
+#GalaxyMonkey{
+	font-family: 'GalaxyMonkey';
+}
+
+#Kompani{
+	font-family: 'Kompani';
+}
+
+#LemonMilk{
 	font-family: 'LemonMilk';
 }
 
-#test2{
-	font-family: 'NovaStamp';
-	font-size: 150%;
+#LemonMilkB{
+	font-family: 'LemonMilkB';
 }
+
+#LemonMilkL{
+	font-family: 'LemonMilkL';
+}
+
