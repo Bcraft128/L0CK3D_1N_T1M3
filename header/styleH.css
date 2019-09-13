@@ -40,7 +40,8 @@
   .topnav a {display: none;}
   .topnav a.icon {
     float: inherit;
-    display: inline;
+    display: block;
+	  width: 100%;
   }
 }
 
