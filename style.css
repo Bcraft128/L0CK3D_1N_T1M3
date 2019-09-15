@@ -20,6 +20,10 @@ body {
 	font-size:35px;
 }
 
+.p{
+	font-size:22px;
+}
+
 
 @media screen and (max-width: 1000px) {
 
@@ -29,6 +33,7 @@ body {
 @media screen and (max-width: 600px) {
 
 	.SubTitle {font-size:20px;}
-	.T1{font-size:20px;}
-	.T2{font-size:20px;}
+	.T1{font-size:25px;}
+	.T2{font-size:22px;}
+	.p{font-size:20px}
 }
