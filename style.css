@@ -8,12 +8,12 @@ body {
 }
 
 .SubTitle{
-	font-size:34px;
+	font-size:32px;
 	text-align:center;
 }
 
 .T1{
-	font-size:38px;
+	font-size:40px;
 }
 
 .T2{
@@ -32,8 +32,9 @@ body {
 
 @media screen and (max-width: 600px) {
 
+	.TTitle{font-size:40}
 	.SubTitle {font-size:20px;}
-	.T1{font-size:25px;}
+	.T1{font-size:28px;}
 	.T2{font-size:22px;}
 	.p{font-size:17px;}
 }
