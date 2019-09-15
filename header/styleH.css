@@ -23,8 +23,8 @@
 }
 
 .topnav a:hover {
-	background-color: orange;
-	color: #fedfb4;
+	background-color: #fedfb4;
+	color: #dc8003;
 }
 
 .topnav a.active {
