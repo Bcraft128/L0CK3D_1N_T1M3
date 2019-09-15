@@ -32,7 +32,7 @@ body {
 
 @media screen and (max-width: 600px) {
 
-	.TTitle{font-size:40}
+	.TTitle{font-size:40px;}
 	.SubTitle {font-size:20px;}
 	.T1{font-size:28px;}
 	.T2{font-size:22px;}
