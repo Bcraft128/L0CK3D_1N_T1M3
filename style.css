@@ -1,5 +1,5 @@
 body {
-	background-color: #fccb82 ;
+	background-color: #feeacd ;
 }
 
 .TTitle{
@@ -32,7 +32,7 @@ body {
 
 @media screen and (max-width: 600px) {
 
-	body{background-color:#fccb82;}
+	body{background-color:#feeacd;}
 	.TTitle{font-size:40px;}
 	.SubTitle {font-size:20px;}
 	.T1{font-size:28px;}
