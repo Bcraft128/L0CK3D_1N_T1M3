@@ -29,6 +29,6 @@ body {
 @media screen and (max-width: 600px) {
 
 	.SubTitle {font-size:20px;}
-	.T1{font-size:33px;}
-	.T2{font-size:30px;}
+	.T1{font-size:20px;}
+	.T2{font-size:20px;}
 }
