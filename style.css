@@ -21,7 +21,7 @@ body {
 }
 
 .p{
-	font-size:25px;
+	font-size:22px;
 }
 
 
@@ -35,5 +35,5 @@ body {
 	.SubTitle {font-size:20px;}
 	.T1{font-size:25px;}
 	.T2{font-size:22px;}
-	.p{font-size:20px}
+	.p{font-size:18px;}
 }
