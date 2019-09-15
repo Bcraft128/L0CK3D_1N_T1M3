@@ -27,3 +27,13 @@
 	font-family: "LemonMilkL";
 	src: url("LemonMilkLight.otf") format("opentype");
 }
+
+@font-face{
+	font-family: "Instruction";
+	src: url("Instruction.otf") format("opentype");
+}
+
+@font-face{
+	font-family: "InstructionB";
+	src: url("InstructionBold.otf") format("opentype");
+}
