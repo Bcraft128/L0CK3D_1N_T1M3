@@ -52,7 +52,7 @@
 	z-index: 1;
 	top: 0;
 	left: 0;
-	background-color: rgba(254, 179, 129, 0.8);
+	background-color: rgba(254, 189, 129, 0.8);
 	overflow-x: hidden;
 	transition: 0.5s;
 }
