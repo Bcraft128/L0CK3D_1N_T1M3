@@ -8,28 +8,30 @@
 
 .topnav {
 	overflow: auto;
-	background-color: #dc8003;
+	background-color: #737373;
 	width: 100%;
+	transition: 0.5s;
 }
 
 .topnav a {
 	float: left;
-	color: white;
+	color: #2753a5;
 	padding: 16px 0px;
 	text-align: center;
   	text-decoration: none;
 	font-size: 17px;
-	width: 33.3333%
+	width: 33.3333%;
+	transition: 0.3s;
 }
 
 .topnav a:hover {
-	background-color: #fdd49b;
-	color: #dc8003;
+	background-color: #a6a6a6;
+	color: #5a86d8;
 }
 
 .topnav a.active {
-	background-color: #fca936;
-	color: white;
+	background-color: #a6a6a6;
+	color: #5a86d8;
 }
 
 .topnav .icon {
@@ -52,7 +54,7 @@
 	z-index: 1;
 	top: 0;
 	left: 0;
-	background-color: rgba(254, 189, 129, 0.8);
+	background-color: rgba(153, 153, 153, 0.8);
 	overflow-x: hidden;
 	transition: 0.5s;
 }
@@ -76,7 +78,7 @@
 }
 
 .overlay a:hover, .overlay a:focus {
-	color: #fca936;
+	color: #5a86d8;
 }
 
 .overlay .closebtn {
