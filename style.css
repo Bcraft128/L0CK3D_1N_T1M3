@@ -29,6 +29,30 @@ body {
 	color:#CCD6DD;
 }
 
+.but1 {
+	overflow: auto;
+	background-color: #171a1c;
+	width: 100px;
+	transition: 0.5s;
+}
+
+.but1 a {
+	float: left;
+	color: #55ACEE;
+	padding: 16px 0px;
+	text-align: center;
+  	text-decoration: none;
+	font-size: 17px;
+	width: 100%;
+	transition: 0.3s;
+}
+
+.but1 a:hover {
+	background-color: #4f5b63;
+	color: #74bbf1;
+}
+
+
 
 @media screen and (max-width: 1300px) {
 
