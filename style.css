@@ -63,12 +63,17 @@ body {
 	color:#55ACEE;
 }
 
+.marge {
+	margin:35px;
+}
+
 @media screen and (max-width: 1300px) {
 
 	.TTitle {font-size:40px;}
 	.SubTitle {font-size:30px;}
 	.txt404 {font-size:35px;}
 	.but1 {width: 50%;}
+	.marge {margin:28px;}
 }
 
 @media screen and (max-width: 600px) {
@@ -81,4 +86,5 @@ body {
 	.txt404 {font-size:28px;}
 	.but1 {width: 100%;}
 	.but1 a {font-size: 20px;}
+	.marge {margin:22px;}
 }
