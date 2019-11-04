@@ -67,6 +67,10 @@ body {
 	margin:35px;
 }
 
+.box {
+	border : 3px solid #171a1c;
+}
+
 @media screen and (max-width: 1300px) {
 
 	.TTitle {font-size:40px;}
