@@ -42,7 +42,7 @@ body {
 	padding: 16px 0px;
 	text-align: center;
   	text-decoration: none;
-	font-size: 20px;
+	font-size: 30px;
 	width: 100%;
 	transition: 0.3s;
 }
@@ -80,4 +80,5 @@ body {
 	.p {font-size:17px;}
 	.txt404 {font-size:25px;}
 	.but1 {width: 100%;}
+	.but1 a {font-size: 20px;}
 }
