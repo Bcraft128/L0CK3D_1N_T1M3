@@ -48,7 +48,7 @@ body {
 }
 
 .but1 a:hover {
-	background-color: #4f5b63;
+	background-color: #394147;
 	color: #74bbf1;
 }
 
@@ -69,6 +69,7 @@ body {
 }
 
 .box {
+	background-color : #394147;
 	border : 3px solid #171a1c;
 	padding : 0 15px ;
 }
