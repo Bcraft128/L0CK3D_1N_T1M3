@@ -26,12 +26,12 @@
 
 .topnav a:hover {
 	background-color: #4f5b63;
-	color: #0091ff;
+	color: #55ACEE;
 }
 
 .topnav a.active {
 	background-color: #4f5b63;
-	color: #0091ff;
+	color: #55ACEE;
 }
 
 .topnav .icon {
