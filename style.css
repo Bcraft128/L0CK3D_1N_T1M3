@@ -9,7 +9,7 @@ body {
 }
 
 .SubTitle{
-	font-size:32px;
+	font-size:30px;
 	text-align:center;
 	color:#CCD6DD;
 }
@@ -57,7 +57,7 @@ body {
 @media screen and (max-width: 1300px) {
 
 	.TTitle {font-size:40px;}
-	.SubTitle {font-size:28px;}
+	.SubTitle {font-size:25px;}
 }
 
 @media screen and (max-width: 600px) {
