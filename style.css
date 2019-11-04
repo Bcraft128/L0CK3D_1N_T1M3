@@ -32,14 +32,14 @@ body {
 .but1 {
 	overflow: auto;
 	background-color: #171a1c;
-	width: 500px;
+	width: 33%;
 	transition: 0.5s;
 }
 
 .but1 a {
 	float: left;
 	color: #55ACEE;
-	padding: 16px 7px;
+	padding: 16px 0px;
 	text-align: center;
   	text-decoration: none;
 	font-size: 20px;
@@ -68,14 +68,16 @@ body {
 	.TTitle {font-size:40px;}
 	.SubTitle {font-size:25px;}
 	.txt404 {font-size:35px;}
+	.but1 {width: 50%;}
 }
 
 @media screen and (max-width: 600px) {
 
-	.TTitle{font-size:40px;}
+	.TTitle {font-size:40px;}
 	.SubTitle {font-size:20px;}
-	.T1{font-size:28px;}
-	.T2{font-size:22px;}
-	.p{font-size:17px;}
+	.T1 {font-size:28px;}
+	.T2 {font-size:22px;}
+	.p {font-size:17px;}
 	.txt404 {font-size:25px;}
+	.but1 {width: 100%;}
 }
