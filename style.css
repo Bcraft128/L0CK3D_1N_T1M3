@@ -32,17 +32,17 @@ body {
 .but1 {
 	overflow: auto;
 	background-color: #171a1c;
-	width: 100px;
+	width: 500px;
 	transition: 0.5s;
 }
 
 .but1 a {
 	float: left;
 	color: #55ACEE;
-	padding: 16px 0px;
+	padding: 16px 10px;
 	text-align: center;
   	text-decoration: none;
-	font-size: 17px;
+	font-size: 20px;
 	width: 100%;
 	transition: 0.3s;
 }
@@ -52,12 +52,22 @@ body {
 	color: #74bbf1;
 }
 
+.e404 {
+	font-size:35px;
+	color:#66757F;
+}
 
+.txt404 {
+	font-size:50px;
+	text-align:center;
+	color:#55ACEE;
+}
 
 @media screen and (max-width: 1300px) {
 
 	.TTitle {font-size:40px;}
 	.SubTitle {font-size:25px;}
+	.txt404 {font-size:35px;}
 }
 
 @media screen and (max-width: 600px) {
@@ -67,4 +77,5 @@ body {
 	.T1{font-size:28px;}
 	.T2{font-size:22px;}
 	.p{font-size:17px;}
+	.txt404 {font-size:25px;}
 }
