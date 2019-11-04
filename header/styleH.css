@@ -8,7 +8,7 @@
 
 .topnav {
 	overflow: auto;
-	background-color: #22272a;
+	background-color: #171a1c;
 	width: 100%;
 	transition: 0.5s;
 }
@@ -26,12 +26,12 @@
 
 .topnav a:hover {
 	background-color: #66757F;
-	color: #55ACEE;
+	color: #178de8;
 }
 
 .topnav a.active {
 	background-color: #66757F;
-	color: #55ACEE;
+	color: #178de8;
 }
 
 .topnav .icon {
@@ -70,7 +70,7 @@
 .overlay a {
 	padding: 8px;
 	font-size: 36px;
-	color: #E1E8ED;
+	color: #CCD6DD;
 	display: block;
     text-decoration: none;
 	transition: 0.3s;
