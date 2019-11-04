@@ -37,3 +37,8 @@
 	font-family: "InstructionB";
 	src: url("InstructionBold.otf") format("opentype");
 }
+
+@font-face{
+	font-family: "AccidP";
+	src: url("AccidP.ttf") format("truetype");	
+}
