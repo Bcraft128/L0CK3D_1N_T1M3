@@ -25,7 +25,7 @@ body {
 }
 
 .p{
-	font-size:16px;
+	font-size:18px;
 	color:#CCD6DD;
 }
 
@@ -77,7 +77,7 @@ body {
 	.SubTitle {font-size:23px;}
 	.T1 {font-size:28px;}
 	.T2 {font-size:22px;}
-	.p {font-size:14px;}
+	.p {font-size:16px;}
 	.txt404 {font-size:28px;}
 	.but1 {width: 100%;}
 	.but1 a {font-size: 20px;}
