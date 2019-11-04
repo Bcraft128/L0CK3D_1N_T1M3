@@ -33,6 +33,7 @@ body {
 @media screen and (max-width: 1000px) {
 
 	.TTitle {font-size:40px;}
+	.SubTitle {font-size:28px;}
 }
 
 @media screen and (max-width: 600px) {
