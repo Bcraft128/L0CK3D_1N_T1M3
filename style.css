@@ -73,6 +73,15 @@ body {
 	border : 3px solid #171a1c;
 	padding : 0 15px ;
 }
+/*temp*/
+.space {
+	margin:35px;
+	margin-top: 200px;
+}
+
+.img {
+	text-align:center;
+}
 
 @media screen and (max-width: 1300px) {
 
@@ -81,6 +90,7 @@ body {
 	.txt404 {font-size:35px;}
 	.but1 {width: 50%;}
 	.marge {margin:23px;}
+	.space {margin:23px;margin-top:100px;}
 }
 
 @media screen and (max-width: 600px) {
